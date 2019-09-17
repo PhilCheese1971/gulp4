@@ -1,0 +1,33 @@
+{
+  "name": "irwin-mitchell-dot-com",
+  "description": "irwinmitchell.com - front end build",
+  "main": "app/index.html",
+  "version": "v4.0.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChristianBetts/imdotcom"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-fs-cache": "^0.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^2.1.2",
+    "gulp-wait": "0.0.2",
+    "pump": "^1.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-changed": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-inline-source": "^4.0.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-touch-cmd": "0.0.1",
+    "install": "^0.12.2",
+    "merge-stream": "^2.0.0",
+    "npm": "^6.10.2"
+  }
+}
