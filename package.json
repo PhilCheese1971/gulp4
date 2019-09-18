@@ -1,12 +1,12 @@
 {
-  "name": "irwin-mitchell-dot-com",
-  "description": "irwinmitchell.com - front end build",
+  "name": "your-site-here-dot-com",
+  "description": "yoursitehere.com - front end build",
   "main": "app/index.html",
-  "version": "v4.0.0",
+  "version": "v1.0.0",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChristianBetts/imdotcom"
+    "url": "https://github.com/your-site-repo"
   },
   "dependencies": {
     "gulp": "^4.0.2",
